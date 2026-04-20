@@ -1,0 +1,8 @@
+
+> rest-express@1.0.0 dev
+> NODE_ENV=development tsx server/index.ts
+
+[1G[0K[migrate] Aviso: The endpoint has been disabled. Enable it using the API and retry.
+[db] Aviso: The endpoint has been disabled. Enable it using the API and retry.
+[seed] Aviso: The endpoint has been disabled. Enable it using the API and retry.
+9:36:02 PM [express] serving on port 5000
